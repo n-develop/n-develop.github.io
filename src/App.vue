@@ -1,7 +1,7 @@
 <template>
   <main>
     <Navigation/>
-    <div id="app" class="container">
+    <div id="site" class="container">
       <div class="columns">
         <AboutMe/>
         <router-view/>
@@ -23,7 +23,7 @@ export default {
 </script>
 
 <style>
-#app {
+#site {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
