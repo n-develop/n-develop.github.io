@@ -106,6 +106,34 @@
       </div>
     </div>
     <!-- / Talk: Learning micro-steps with TCR -->
+    <!-- Talk: Unit-Testing Your Blazor Frontend -->
+    <div class="card">
+      <div class="card-content">
+        <div class="media">
+          <div class="media-content">
+            <p class="title is-4">Unit-Testing Your Blazor Frontend</p>
+            <p class="subtitle is-6">
+              The importance of an automated test suite probably doesn't need to be emphasized
+              these days. And with Blazor, even classic backend developers can develop functional
+              frontends today. While most backend developers are familiar with writing unit tests
+              for your business logic, writing tests for your frontend is a whole different story.
+              In this talk, we will see how easy it can be to write helpful tests for your
+              Blazor components.
+            </p>
+          </div>
+        </div>
+        <hr/>
+        <div class="content">
+          <p class="title is-6"><i class="fa fa-book highlight-color"></i> Topics</p>
+          <div class="tags are-medium">
+            <span class="tag">.NET</span>
+            <span class="tag">Blazor</span>
+            <span class="tag">Unit Testing</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- / Talk: Unit-Testing Your Blazor Frontend -->
     <!-- Talk: Blazor: Beyond the ToDo App -->
     <div class="card">
       <div class="card-content">
