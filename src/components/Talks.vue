@@ -16,6 +16,11 @@
           <p class="title is-6">
             <i class="far fa-calendar-alt highlight-color"></i> Upcoming Events
           </p>
+          <p>
+            No upcoming events
+          </p>
+
+          <p class="title is-6"><i class="fa fa-calendar-check highlight-color"></i> Past Events</p>
           <table class="table is-striped is-hoverable is-fullwidth">
             <thead>
             <tr>
@@ -30,19 +35,6 @@
               <td>Developer Week '21</td>
               <td>Why "real world" TDD is hard and what you can do about it</td>
             </tr>
-            </tbody>
-          </table>
-
-          <p class="title is-6"><i class="fa fa-calendar-check highlight-color"></i> Past Events</p>
-          <table class="table is-striped is-hoverable is-fullwidth">
-            <thead>
-            <tr>
-              <th>Date</th>
-              <th>Event</th>
-              <th>Talk / Workshop</th>
-            </tr>
-            </thead>
-            <tbody>
             <tr>
               <td>2019-12-07</td>
               <td>Technology Conference Hamburg</td>
