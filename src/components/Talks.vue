@@ -17,7 +17,27 @@
             <i class="far fa-calendar-alt highlight-color"></i> Upcoming Events
           </p>
           <p>
-            No upcoming events
+            <table class="table is-striped is-hoverable is-fullwidth">
+            <thead>
+            <tr>
+              <th>Date</th>
+              <th>Event</th>
+              <th>Talk / Workshop</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+              <td>2022-05-18</td>
+              <td>Magdeburger Developer Days</td>
+              <td>Getting into iOS Development as a Backend Developer</td>
+            </tr>
+            <tr>
+              <td>2022-05-18</td>
+              <td>Magdeburger Developer Days</td>
+              <td>Real-Time Communication Made Easy - Eine Einführung in SignalR</td>
+            </tr>
+            </tbody>
+          </table>
           </p>
 
           <p class="title is-6"><i class="fa fa-calendar-check highlight-color"></i> Past Events</p>
