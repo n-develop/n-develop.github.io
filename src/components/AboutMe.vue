@@ -6,7 +6,7 @@
         <img src="../assets/images/lars.jpg" alt="Profile image Lars Richter">
       </figure>
       <h4 class="title is-4">Hi, I'm Lars Richter</h4>
-      <h5 class="subtitle is-6 has-text-grey">.NET Developer, Father & Husband</h5>
+      <h5 class="subtitle is-6 has-text-grey">Team Lead, iOS Developer, Father &amp; Husband</h5>
 
       <p>
         I'm a team lead and iOS developer located in Hamburg, Germany.
