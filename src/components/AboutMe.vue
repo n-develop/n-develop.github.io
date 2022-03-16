@@ -9,7 +9,7 @@
       <h5 class="subtitle is-6 has-text-grey">.NET Developer, Father & Husband</h5>
 
       <p>
-        I'm a .NET developer located in Hamburg, Germany.
+        I'm a team lead and iOS developer located in Hamburg, Germany.
         I love working with code. It doesn't matter if it's a greenfield project or a legacy
         codebase.
         I'm passionate about clean code, software craftsmanship, unit testing and a lot of other
@@ -57,7 +57,7 @@
         <h5 class="subtitle is-6 has-text-grey">.NET Developer, Father & Husband</h5>
 
         <p>
-          I'm a .NET developer located in Hamburg, Germany.
+          I'm a team lead and iOS developer located in Hamburg, Germany.
           I love working with code. It doesn't matter if it's a greenfield project or a
           legacy codebase.
           I'm passionate about clean code, software craftsmanship, unit testing and a lot of
