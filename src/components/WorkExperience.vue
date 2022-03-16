@@ -2,13 +2,74 @@
   <!-- Work Experience  -->
   <div class="box topic">
     <h2 class="title is-3"><i class="fa fa-briefcase highlight-color"></i> Work Experience</h2>
+    <!-- Parship Group Team Lead -->
+    <div class="card">
+      <div class="card-content">
+        <div class="media">
+          <div class="media-content">
+            <p class="title is-4">Team Lead Development &#64; Parship Group</p>
+            <p class="subtitle is-6">March 2022 - <span class="tag is-info">today</span></p>
+
+            <p class="is-hidden-mobile">
+              In March 2022 I was promoted to a team lead position. Besides my team lead tasks,
+              I'm still an active member of the iOS development team. Together with my colleagues,
+              I'm developing our native iOS app using Swift, SwiftUI and UIKit.
+              Our current focus is the improvement of the modularization of our app in
+              order to turn our product owner's visions into reality in even less time.
+            </p>
+
+          </div>
+          <div class="media-right">
+            <figure class="image is-128x128">
+              <img src="../assets/images/parshipgroup.jpg" alt="Parship Group Logo">
+            </figure>
+          </div>
+        </div>
+        <hr/>
+        <div class="content">
+          <p class="is-hidden-tablet">
+            In March 2022 I was promoted to a team lead position. Besides my team lead tasks,
+            I'm still an active member of the iOS development team. Together with my colleagues,
+            I'm developing our native iOS app using Swift, SwiftUI and UIKit.
+            Our current focus is the improvement of the modularization of our app in
+            order to turn our product owner's visions into reality in even less time.
+          </p>
+
+          <p class="title is-6">
+            <i class="fa fa-tools highlight-color"></i> Languages / Frameworks
+          </p>
+          <div class="tags are-medium">
+            <span class="tag">Swift</span>
+            <span class="tag">SwitUI</span>
+            <span class="tag">UIKit</span>
+          </div>
+
+          <p class="title is-6"><i class="fa fa-robot highlight-color"></i> Tools</p>
+          <div class="tags are-medium">
+            <span class="tag">Xcode</span>
+            <span class="tag">JetBrains AppCode</span>
+            <span class="tag">GitHub</span>
+            <span class="tag">SwiftLint</span>
+            <span class="tag">iOS</span>
+            <span class="tag">SonarQube</span>
+          </div>
+
+          <p class="title is-6"><i class="fa fa-map-marked-alt highlight-color"></i> Location</p>
+          <div class="tags are-medium">
+            <span class="tag">Hamburg</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- / Parship Group Team Lead -->
+
     <!-- Parship Group iOS -->
     <div class="card">
       <div class="card-content">
         <div class="media">
           <div class="media-content">
             <p class="title is-4">iOS Developer &#64; Parship Group</p>
-            <p class="subtitle is-6">October 2021 - <span class="tag is-info">today</span></p>
+            <p class="subtitle is-6">October 2021 - Feburary 2022</p>
 
             <p class="is-hidden-mobile">
               In October 2021 I joined our iOS development team. Together with my colleagues,
