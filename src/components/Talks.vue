@@ -26,16 +26,6 @@
             </tr>
             </thead>
             <tbody>
-            <tr>
-              <td>2022-05-18</td>
-              <td>Magdeburger Developer Days</td>
-              <td>Getting into iOS Development as a Backend Developer</td>
-            </tr>
-            <tr>
-              <td>2022-05-18</td>
-              <td>Magdeburger Developer Days</td>
-              <td>Real-Time Communication Made Easy - Eine Einführung in SignalR</td>
-            </tr>
             </tbody>
           </table>
           </p>
@@ -50,6 +40,16 @@
             </tr>
             </thead>
             <tbody>
+              <tr>
+              <td>2022-05-18</td>
+              <td>Magdeburger Developer Days</td>
+              <td>Getting into iOS Development as a Backend Developer</td>
+            </tr>
+            <tr>
+              <td>2022-05-18</td>
+              <td>Magdeburger Developer Days</td>
+              <td>Real-Time Communication Made Easy - Eine Einführung in SignalR</td>
+            </tr>
             <tr>
               <td>2021-06-29</td>
               <td>Developer Week '21</td>
@@ -318,10 +318,9 @@
 
 <script>
 export default {
-  name: 'Talks',
+  name: "Talks",
 };
 </script>
 
 <style scoped>
-
 </style>
