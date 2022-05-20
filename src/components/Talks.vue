@@ -335,7 +335,7 @@
 
 <script>
 export default {
-  name: "Talks",
+  name: 'Talks',
 };
 </script>
 
