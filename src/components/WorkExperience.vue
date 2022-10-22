@@ -11,11 +11,11 @@
             <p class="subtitle is-6">March 2022 - <span class="tag is-info">today</span></p>
 
             <p class="is-hidden-mobile">
-              In March 2022 I was promoted to a team lead position. Besides my team lead tasks,
-              I'm still an active member of the iOS development team. Together with my colleagues,
-              I'm developing our native iOS app using Swift, SwiftUI and UIKit.
-              Our current focus is the improvement of the modularization of our app in
-              order to turn our product owner's visions into reality in even less time.
+              In March 2022 I was promoted to a team lead position. Since then, I'm leading a cross-functional 
+              development team. Our mission is to create great features in the areas matchmaking and payment. 
+              Besides my team lead tasks, I'm still an active member of the iOS development team. 
+              Together with my colleagues, I'm developing our native iOS app using Swift, SwiftUI and UIKit.
+              My personal goal is to improve the accessibilty of our apps to make them accessible to everyone.
             </p>
 
           </div>
