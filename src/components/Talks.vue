@@ -117,105 +117,7 @@
       </div>
     </div>
     <!-- / Talk: Learning micro-steps with TCR -->
-    <!-- Talk: Unit-Testing Your Blazor Frontend -->
-    <div class="card">
-      <div class="card-content">
-        <div class="media">
-          <div class="media-content">
-            <p class="title is-4">Unit-Testing Your Blazor Frontend</p>
-            <p class="subtitle is-6">
-              The importance of an automated test suite probably doesn't need to
-              be emphasized these days. And with Blazor, even classic backend
-              developers can develop functional frontends today. While most
-              backend developers are familiar with writing unit tests for your
-              business logic, writing tests for your frontend is a whole
-              different story. In this talk, we will see how easy it can be to
-              write helpful tests for your Blazor components.
-            </p>
-          </div>
-        </div>
-        <hr />
-        <div class="content">
-          <p class="title is-6">
-            <i class="fa fa-book highlight-color"></i> Topics
-          </p>
-          <div class="tags are-medium">
-            <span class="tag">.NET</span>
-            <span class="tag">Blazor</span>
-            <span class="tag">Unit Testing</span>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- / Talk: Unit-Testing Your Blazor Frontend -->
-    <!-- Talk: Blazor: Beyond the ToDo App -->
-    <div class="card">
-      <div class="card-content">
-        <div class="media">
-          <div class="media-content">
-            <p class="title is-4">Blazor: Beyond the ToDo App</p>
-            <p class="subtitle is-6">
-              There are a lot of great tutorials out there to get started with
-              Blazor. And they all help developers get into Blazor. But not
-              every application is a simple ToDo app. In todays enterprise
-              applications we rarely write all the code in a single ASP.NET Core
-              project. In this talk, we will go beyond the popular ToDo app
-              example. We will create a small app that separates the API and the
-              UI in different projects. This lays the foundation for more
-              complex applications. We will also use "Project Tye" to run the
-              projects as Docker containers and simulate a microservice
-              architecture. There are only a few slides used for the
-              introduction. The rest of the time will be spent in the code to
-              see how more complex solutions can be developed using Blazor.
-            </p>
-          </div>
-        </div>
-        <hr />
-        <div class="content">
-          <p class="title is-6">
-            <i class="fa fa-book highlight-color"></i> Topics
-          </p>
-          <div class="tags are-medium">
-            <span class="tag">.NET</span>
-            <span class="tag">Blazor</span>
-            <span class="tag">ASP.NET Core</span>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- / Talk: Blazor: Beyond the ToDo App -->
-    <!-- Talk: Server-side Blazor -->
-    <div class="card">
-      <div class="card-content">
-        <div class="media">
-          <div class="media-content">
-            <p class="title is-4">Server-side Blazor in Action</p>
-            <p class="subtitle is-6">
-              Not everybody loves JavaScript. Don't get me wrong. I don't hate
-              JavaScript. But I love C#. I always dreamed about writing my
-              frontend code in C#. Tell you what? It's possible. Even without
-              WebAssembly. In this talk, we will dive into the the world of
-              server-side Blazor. After a short walk through the default project
-              template, we will create a custom component. There are only a few
-              slides used for the introduction. The rest of the time will be
-              spent in the code to see server-side Blazor development in action.
-            </p>
-          </div>
-        </div>
-        <hr />
-        <div class="content">
-          <p class="title is-6">
-            <i class="fa fa-book highlight-color"></i> Topics
-          </p>
-          <div class="tags are-medium">
-            <span class="tag">Blazor</span>
-            <span class="tag">Server-Side Rendering</span>
-            <span class="tag">ASP.NET Core</span>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- / Talk: Server-side Blazor -->
+    <!-- Talk: FeatureManagement in .NET -->
     <div class="card">
       <div class="card-content">
         <div class="media">
@@ -244,6 +146,8 @@
         </div>
       </div>
     </div>
+    <!-- / Talk: FeatureManagement in .NET -->
+    <!-- Talk: Introduction to ASP.NET Core SignalR -->
     <div class="card">
       <div class="card-content">
         <div class="media">
@@ -270,6 +174,8 @@
         </div>
       </div>
     </div>
+    <!-- / Talk: Introduction to ASP.NET Core SignalR -->
+    <!-- Talk: The broken windows and burning cars of software development -->
     <div class="card">
       <div class="card-content">
         <div class="media">
@@ -298,6 +204,8 @@
         </div>
       </div>
     </div>
+    <!-- / Talk: The broken windows and burning cars of software development -->
+    <!-- Talk: Why "real world" TDD is hard and what you can do about it -->
     <div class="card">
       <div class="card-content">
         <div class="media">
@@ -329,6 +237,7 @@
         </div>
       </div>
     </div>
+    <!-- / Talk: Why "real world" TDD is hard and what you can do about it -->
   </div>
   <!-- / Talks / Workshops  -->
 </template>
